@@ -1,0 +1,7 @@
+C:\Users\Bulat\source\repos\AVC_AVM\AVC_AVM\bin\Debug\AVC_AVM.dll.config
+C:\Users\Bulat\source\repos\AVC_AVM\AVC_AVM\bin\Debug\AVC_AVM.dll
+C:\Users\Bulat\source\repos\AVC_AVM\AVC_AVM\bin\Debug\AVC_AVM.pdb
+C:\Users\Bulat\source\repos\AVC_AVM\AVC_AVM\obj\Debug\AVC_AVM.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\source\repos\AVC_AVM\AVC_AVM\obj\Debug\AVC_AVM.dll
+C:\Users\Bulat\source\repos\AVC_AVM\AVC_AVM\obj\Debug\AVC_AVM.pdb
+C:\Users\Bulat\source\repos\AVC_AVM\AVC_AVM\obj\Debug\AVC_AVM.csprojAssemblyReference.cache
